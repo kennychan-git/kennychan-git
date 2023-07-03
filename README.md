@@ -15,10 +15,8 @@ I have worked on a variety of projects, including:
 Feel free to explore my repositories to see more of my work!
 
 ## Skills
-- Programming languages: Python, JavaScript, Java
-- Web development: HTML, CSS, JavaScript, Django, React
-- Data science: Pandas, NumPy, Scikit-learn
-- Databases: MySQL, PostgreSQL
+- Programming languages: Python, Perl
+
 
 ## Get in Touch
 I'm open to collaboration and discussing interesting projects. You can reach me through the following channels:
