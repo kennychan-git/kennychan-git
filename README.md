@@ -22,6 +22,6 @@ Feel free to explore my repositories to see more of my work!
 I'm open to collaboration and discussing interesting projects. You can reach me through the following channels:
 
 - Email: [me@kennychan.xyz](mailto:me@kennychan.xyz)
-- Twitter: [@_invalid_](https://twitter.com/_invalid_)
+- X: [@_invalid_](https://twitter.com/_invalid_)
 
 Looking forward to connecting with you and exploring exciting opportunities together! 🚀
