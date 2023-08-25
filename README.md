@@ -10,7 +10,9 @@ I have worked on a variety of projects, including:
 
 - **Project 1**: A fuel efficiency calculator between imperial and metric.
 - **Project 2**: A media file naming and organization script.
-- **Closed Source**: 10+ automation script to ease workflow in my daily job.
+- **Project 3**: A script that factorize integers and determine is a prime or not.
+- **Closed Source**: 10+ automation script to ease workflow in daily job.
+- **Closed Source**: 10+ personal fun projects.
 
 Feel free to explore my repositories to see more of my work!
 
