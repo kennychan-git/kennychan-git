@@ -9,7 +9,7 @@ I am passionate about technology and programming. I enjoy exploring various prog
 I have worked on a variety of projects, including:
 
 - **Project 1**: A fuel efficiency calculator between imperial and metric.
-- **Project 2**: A media file naming and organization script.
+- **Project 2**: A divinition app using jiaobei blocks.
 - **Project 3**: A script that factorize integers and determine is a prime or not.
 - **Closed Source**: 20+ automation script to ease workflow in daily job.
 - **Closed Source**: 10+ personal fun projects.
