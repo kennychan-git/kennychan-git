@@ -11,6 +11,7 @@ I have worked on a variety of projects, including:
 - **Project 1**: A fuel efficiency calculator between imperial and metric.
 - **Project 2**: A divinition app using jiaobei blocks.
 - **Project 3**: A script that factorize integers and determine is a prime or not.
+- **Project 4**: A app that calculates the zodiac and presents relevant numerlogy number.
 - **Closed Source**: 20+ automation script to ease workflow in daily job.
 - **Closed Source**: 10+ personal fun projects.
 
