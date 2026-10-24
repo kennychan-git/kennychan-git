@@ -1,37 +1,50 @@
-# Hi, I'm Kenny Chan! 👋
+# Hi, I'm Kenny Chan 👋
 
-**Systems Automation Specialist | Homelab Architect | Performance Enthusiast**
+**Semiconductor Operations Lead | OSAT & Product Engineer | Full-Stack Tinkerer**
 
-I am a technical professional focused on the intersection of hardware efficiency and software automation. From managing ZFS storage pools on Proxmox to streamlining enterprise-grade workflows through Python and Perl, I build for reliability, precision, and peak performance.
+I bridge the gap between high-performance semiconductor manufacturing and modern software engineering. With over a decade of experience across **Broadcom** and **Intel**, I specialize in OSAT operations, assembly & test engineering, yield optimization, and building sleek, performant web & automation tools.
+
+📍 Based in Penang, Malaysia  
+🌐 Website: [kennychan.xyz](https://kennychan.xyz)  
+💼 LinkedIn: [linkedin.com/in/kenny-chan-a9754237](https://www.linkedin.com/in/kenny-chan-a9754237/)  
+✉️ Contact: [me@kennychan.xyz](mailto:me@kennychan.xyz)
 
 ---
 
 ## 🛠️ What I’m Working On
-- **Infrastructure:** Architecting a high-availability homelab environment utilizing **Proxmox VE** and **TrueNAS**, orchestrating 20+ Dockerized services with a focus on hardware-accelerated transcoding and data integrity.
-- **Automation:** Developing a comprehensive library of custom scripts to eliminate redundancy in technical workflows and system management.
-- **Scientific Visualizations:** Developing JSON-driven dynamic environments that sync high-definition scientific imagery with real-time astronomical cycles.
 
-## 🚀 Featured Projects
-- **[Fuel Efficiency Suite]** – A precision tool for calculating and converting complex fuel consumption metrics across global standards.
-- **[Divination & Numerology App]** – A unique application integrating traditional Jiaobei block logic with prime factorization and zodiac data.
-- **[Private] Automation Repository** – 20+ Perl and Python scripts engineered for enterprise workflow optimization and system maintenance.
-- **[Private] Lab Configs** – Infrastructure-as-Code (IaC) templates for ZFS mirroring, IOMMU grouping, and hardware passthrough.
-
-## 🧰 Technical Toolkit
-* **Languages:** Python, Perl, Bash, JSON
-* **Virtualization:** Proxmox VE, Docker, LXC, IOMMU Passthrough
-* **Storage & OS:** ZFS (Mirrored Pools), TrueNAS, Linux (Debian/Ubuntu), Windows Automation
-* **Hardware:** Intel QuickSync Optimization, Performance Tuning, OLED Maintenance
-
-## 🏎️ Beyond the Code
-When I'm not at the terminal, I apply the same principles of precision to mechanical engineering—specifically suspension geometry, braking systems, and performance tuning for both two-wheel and four-wheel platforms.
-
-## 📬 Get in Touch
-I'm always open to discussing server architecture, scripting strategies, or high-performance hardware.
-
-- **Email:** [me@kennychan.xyz](mailto:me@kennychan.xyz)
-- **X:** [@_invalid_](https://twitter.com/_invalid_)
+- **Semiconductor Engineering:** Managing OSAT subcon manufacturing, volume ramp execution, and test yield optimization for high-performance video & broadband silicon at Broadcom.
+- **Micro-SaaS & Web Tools:** Refactoring personal web apps—including the **Budi Fuel Efficiency Calculator**—into Next.js 16, Vite, Tailwind CSS v4, and PWAs deployed on Cloudflare Pages.
+- **Homelab & Infrastructure:** Maintaining a low-power DietPi mini-PC homelab running Pi-hole, Unbound local DNS, Portainer, Watchtower, and NetAlertX in Docker containers.
 
 ---
 
-*“If it can be automated, it should be optimized.”*
+## 🚀 Featured Projects
+
+- ⛽ **[Budi Fuel Efficiency Calculator](https://kennychan.xyz)** – A PWA micro-SaaS tool for computing and converting fuel efficiency metrics across global standards, built with Vite, Tailwind CSS, and Cloudflare Pages.
+- 🌐 **[kennychan.xyz](https://kennychan.xyz)** – Personal portfolio and developer hub built with Next.js 16, React, Tailwind CSS v4, and Framer Motion with custom dark mode and edge routing.
+- ⚙️ **Self-Hosted Homelab Suite** – Local infrastructure stack running local DNS resolution, automated container updates, and server monitoring on a DietPi host.
+- 🎮 **Gaming & Emulation Rigs** – Custom SFF PC builds (NCASE T1 v2.5), living-room Bazzite Linux console setups, and custom-tuned handheld emulation systems.
+
+---
+
+## 🧰 Technical Toolkit
+
+- **Semiconductor & OSAT:** ATE & Product Engineering, Assembly & Test, Yield Optimization, Silicon Characterization, Subcon Operations
+- **Frontend & Web:** Next.js 16, React, Tailwind CSS v4, Framer Motion, Vite, Progressive Web Apps (PWA)
+- **Cloud & Edge:** Cloudflare Pages, Workers, DNS Management, Docker, DietPi, Linux (Debian)
+- **Developer Tools:** VS Code, Git, GitHub Copilot Pro, Claude & Gemini AI Workflows
+
+---
+
+## 🏎️ Beyond the Screen
+
+When I'm away from the terminal, I apply the same principles of precision and performance tuning to mechanical engineering and custom hardware:
+
+- 🏍️ **Motorcycles & Scooter Tuning:** Track/canyon loops on a 2010 Yamaha YZF-R6 (Öhlins / Brembo / Matris upgrades) and daily urban commuting on a tuned Honda ADV160 (CVT / YSS suspension).
+- 🚗 **Cars:** Daily driving and maintaining a JDM Toyota Celica ZZT231 fitted with Titan SP3 adjustable suspension and Ultra Racing chassis bracing.
+- ⌨️ **Custom Keyboards & SFF PCs:** Building ultra-compact small-form-factor PCs and custom mechanical keyboards.
+
+---
+
+*“If it can be tuned, optimized, or automated, it’s worth doing right.”*
